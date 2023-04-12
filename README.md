@@ -5,4 +5,4 @@ Do something dsciency everyday for 100 days.
 
 2. Day 2 (Apr 11,23): Mathematical statistics with resampling and R => 3,4,5.2.
 
-3. Day 3(Apr 12,23):
+3. Day 3(Apr 12,23): Compeleted chapter 5
