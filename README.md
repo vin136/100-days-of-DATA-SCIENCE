@@ -7,3 +7,4 @@ Do something dsciency everyday for 100 days.
 
 3. Day 3(Apr 12,23): Compeleted chapter 5
 4. Day 4(Apr 13,23): Completed chapter 7+ first two chapters of DDA(martin kleppmann)
+5. Day 5(Apr 14,23): Read chapter 3 and 4 of DDA
