@@ -36,4 +36,11 @@ When there are lot's of many-many relationships,lot of variablity in data = Grap
 
 --------------------
 
+Data storage and retrieval
+
+OLTP : row-based. read: at most mg,write:random access.
+
+OLAP: column store (find all the order's from a store).
+
+For data-warehouse star-schema: fact and dimensions table.
 
