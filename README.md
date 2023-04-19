@@ -8,3 +8,4 @@ Do something dsciency everyday for 100 days.
 3. Day 3(Apr 12,23): Compeleted chapter 5
 4. Day 4(Apr 13,23): Completed chapter 7+ first two chapters of DDA(martin kleppmann)
 5. Day 5(Apr 14,23): Read chapter 3 and 4 of DDA
+6. Day 6(Apr 19,23): wrote [training_data.md](https://github.com/vin136/Machine-Learning-Interview-Questions/blob/main/training_data.md),summary of practical points in ml-interviews.
