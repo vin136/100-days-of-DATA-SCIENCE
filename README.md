@@ -10,4 +10,4 @@ Do something dsciency everyday for 100 days.
 5. Day 5(Apr 14,23): Read chapter 3 and 4 of DDA
 6. Day 6(Apr 19,23): wrote [training_data.md](https://github.com/vin136/Machine-Learning-Interview-Questions/blob/main/training_data.md),summary of practical points in ml-interviews.
 7. Day 7(Apr 22,23) : studied 2 lessons from statistical rethinking.
-8. Day 8(Apr 23,23):
+8. Day 8(Apr 23,23): done hypothesis testing(>70%) chapter from brilliant.org
