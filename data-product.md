@@ -2,4 +2,5 @@ There's a lot of fuss around mlops, this is an attempt at thinking in first prin
 
 STEP 0: Solve a business problem.
 
-Data Scientist's: Focus on speed of iteration and prototyping.
+Data Scientist's: Focus on speed of iteration and prototyping. Take a static file and iterate.
+Goal: Integrate into production.
