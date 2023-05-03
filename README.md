@@ -12,3 +12,4 @@ Do something dsciency everyday for 100 days.
 7. Day 7(Apr 22,23) : studied 2 lessons from statistical rethinking.
 8. Day 8(Apr 23,23): done hypothesis testing(>70%) chapter from brilliant.org
 9. Day 9(Apr 24,23): done writing behavirial questions.
+10. Day 10(May 3,23): Wrote data structures and algos.
